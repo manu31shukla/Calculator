@@ -28,6 +28,9 @@ button{
     margin: 6px;
 }
 
+button.hover{
+    background: #d9cccc;
+
 .calculator{ 
     border: 4px solid #808080;
     background-image: linear-gradient(rgba(121, 143, 156, 0.466), rgb(233, 232, 232));
