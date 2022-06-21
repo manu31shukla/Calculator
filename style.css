@@ -3,6 +3,7 @@
     text-align: center;
     margin-top:23px
     background-image: url("https://opengameart.org/sites/default/files/robot-run.gif");
+    background-repeat:repeat;
 }
 
 table{
