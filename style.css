@@ -2,7 +2,7 @@
 .container{
     text-align: center;
     margin-top:23px
-    background-image: linear-gradient(#ffffe6, #333300);
+    background-image: url("https://opengameart.org/sites/default/files/robot-run.gif");
 }
 
 table{
