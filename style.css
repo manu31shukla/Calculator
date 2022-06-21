@@ -28,7 +28,7 @@ button{
     margin: 6px;
 }
 
-button.hover{
+.button.hover{
     background: #d9cccc;
 
 .calculator{ 
